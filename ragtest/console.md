@@ -1,5 +1,6 @@
 # 知识图谱构建
 - **gpt-4-turbo(💰 1.76 USD)**
+- **gpt-4o-mini(💰 0.09 USD)**
 - **deepseek(💰 0.47 CNY)**
 ```bash
 graphrag index --root ./ragtest
@@ -79,3 +80,7 @@ Scrooge's relationships are pivotal to his character development and transformat
 
 Through these relationships, Scrooge's character evolves from a solitary miser to a beloved figure who embodies the spirit of Christmas, emphasizing themes of redemption, compassion, and the importance of human connections [Data: Entities (0); Relationships (19, 20, 24, +more)].
 ```
+
+# KG可视化
+merged_graph.graphml在Gephi上长这样：
+![alt text](gephi.png)
